@@ -20,10 +20,11 @@
   - **SDL2_ttf**: Used to render TrueType fonts for displaying in-game text such as score, level, and instructions.
 
 ## Installation & Setup (Windows)
- - Clone this repository
-   ```sh
-   git clone https://github.com/SazidRahman226/Tetris_Remastered
- - Run the "Tetris_Remastered.exe" file and enjoy
+- Clone this repository
+```sh
+git clone https://github.com/SazidRahman226/Tetris_Remastered
+```
+- Run the "Tetris_Remastered.exe" file and enjoy
 
 ## Previews
 

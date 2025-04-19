@@ -24,3 +24,15 @@
    ```sh
    git clone https://github.com/SazidRahman226/Tetris_Remastered
  - Run the "Tetris_Remastered.exe" file and enjoy
+
+## Previews
+
+![Start Menu](https://github.com/SazidRahman226/Tetris_Remastered/blob/bc475d8e56844fe7d03812a24297d35e7ee9f3f7/Tetris_Remastered/previews/preview1.png)
+
+![In game](https://github.com/SazidRahman226/Tetris_Remastered/blob/bc475d8e56844fe7d03812a24297d35e7ee9f3f7/Tetris_Remastered/previews/preview2.png)
+
+![In game](https://github.com/SazidRahman226/Tetris_Remastered/blob/bc475d8e56844fe7d03812a24297d35e7ee9f3f7/Tetris_Remastered/previews/preview3.png)
+
+![Bomb block](https://github.com/SazidRahman226/Tetris_Remastered/blob/bc475d8e56844fe7d03812a24297d35e7ee9f3f7/Tetris_Remastered/previews/preview4.png)
+
+![Sweeper block](https://github.com/SazidRahman226/Tetris_Remastered/blob/bc475d8e56844fe7d03812a24297d35e7ee9f3f7/Tetris_Remastered/previews/preview5.png)

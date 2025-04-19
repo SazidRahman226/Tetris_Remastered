@@ -23,4 +23,4 @@
  - Clone this repository
    ```sh
    git clone https://github.com/SazidRahman226/Tetris_Remastered
- - Run the exe file and enjoy
+ - Run the "Tetris_Remastered.exe" file and enjoy
